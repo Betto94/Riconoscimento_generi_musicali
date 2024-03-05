@@ -1,0 +1,1 @@
+Notebook of a university project concerning the classification of musical genres. Data from two .CSV files were analyzed and manipulated, and subsequently, various classification models were applied and studied in detail.
